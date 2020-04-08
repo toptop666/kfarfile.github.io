@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-  color: navy;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #4F7849;
   margin-left: 20px;
 }
 
