@@ -4,7 +4,6 @@ table.table {
   background-color: #EEEEEE;
   width: 100%;
   text-align: center;
-  border-collapse: collapse;
 }
 table.table td, table.table th {
   border: 1px solid #4F7849;
