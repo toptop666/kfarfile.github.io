@@ -1,9 +1,10 @@
 body {
-  background-color: white;
+  background-color: lightblue;
 }
 
 h1 {
   font-family: "Arial Black", Gadget, sans-serif;
+  font-size:150%;
   color: #4F7849;
   margin-left: 20px;
 }
